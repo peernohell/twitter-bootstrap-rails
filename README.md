@@ -18,7 +18,7 @@ or you can install from latest build;
 
 You can run bundle from command line
 
-    bundle install
+    bundle install 2
 
 
 ## Installing to App (using Generators)
